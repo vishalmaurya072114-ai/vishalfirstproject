@@ -1,3 +1,3 @@
 git vi .readme.md
 vishal
-sudhanshu 
+git reset .readme
